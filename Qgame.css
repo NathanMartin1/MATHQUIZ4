@@ -1,0 +1,29 @@
+body {
+    
+        background-image: url("mathquiz.png");
+        text-align: center!important;
+        color: rgb(226, 144, 36)!important;
+    
+}
+header,#output, #leftfloat, #rightfloat {
+    border-style: dotted;
+    border-color: antiquewhite;
+    padding: 10px;
+    margin: 30px;
+}
+h2 {
+    size: smaller;
+}
+#leftfloat {
+    float: left;
+}
+#rightfloat {
+    float: right;
+}
+.arrow {
+    height: 5%;
+    width: 5%;
+}
+#output {
+    color: rgb(226, 144, 36),!important;
+}
